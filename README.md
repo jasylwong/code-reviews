@@ -6,7 +6,7 @@ Title: #Add title
 
 
 ## Input | Output
-
+Type -> Type
 
 Completed
 ---------
