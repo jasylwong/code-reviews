@@ -39,9 +39,13 @@ describe('spell checker', () => {
     test('empty string throws an error', () => {
       expect(() => {spell_checker('')}).toThrow('Empty string not allowed')
     })
-    
-    test('empty string throws an error', () => {
-      expect(() => {spell_checker('')}).toThrow('Empty string not allowed')
+
+    test('nil input throws an error', () => {
+      expect(() => {spell_checker()}).toThrow('Null input not allowed')
+    })
+
+    test('non string input throws an error', () => {
+      expect(() => {spell_checker(1234)}).toThrow('Non string input not allowed')
     })
   })
 })
