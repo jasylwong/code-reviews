@@ -1,7 +1,10 @@
-# Code review 3
-What does great process look like? https://github.com/makersacademy/skills-workshops/blob/master/process_review/observation_guidance.md
+# Code review 3: Spell checker
 
-Title: Spell Checker
+Feedback from the external professional reviewer can be found [here](./ruby/2020-04-17-Orange%20Jynx%2027-feedback.pdf).
+
+Rest of README is work in progress
+
+What does great process look like? https://github.com/makersacademy/skills-workshops/blob/master/process_review/observation_guidance.md
 
 -----------
 Mega softweird
@@ -30,10 +33,10 @@ To be completed
 Edge cases
 ---------
 Capitals (addressed)
-
-Not addressed yet:
 "" -> Should raise error
 nil or non-string -> raise error
+
+Not addressed yet:
 punctuations and symbols
 Don't need to consider new line characters
 
