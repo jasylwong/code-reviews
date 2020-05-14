@@ -2,7 +2,7 @@
   "name": "JavaScript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "band_pass_filter.js",
   "scripts": {
     "test": "jest"
   },
