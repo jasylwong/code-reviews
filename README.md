@@ -13,6 +13,6 @@ The table below outlines those I have completed to date - in reverse chronologic
 
 | Date | Exercise | Language | Live recording | Feedback |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2020-04-17  | [Spell checker](code-review-3) | Ruby | Content Cell  | Content Cell  |
-| 2020-03-24  | [Band pass filter](code-review-2) | Ruby | Content Cell  | Content Cell  |
-| 2020-03-05  | [Report card](code-review-1) | Ruby | Link  | [Link](2020-03-05-Orange_Jynx_27-feedback.pdf)  |
+| 2020-04-17  | [Spell checker](code-review-3) | Ruby | [Link](https://www.youtube.com/watch?v=Fehc2HlOc6M)  | Content Cell  |
+| 2020-03-24  | [Band pass filter](code-review-2) | Ruby | [Link](https://www.youtube.com/watch?v=MWi1OaEnx8A)  | Content Cell  |
+| 2020-03-05  | [Report card](code-review-1) | Ruby | [Link](https://www.youtube.com/watch?v=vGxOZcuRls4)  | [Link](2020-03-05-Orange_Jynx_27-feedback.pdf)  |
