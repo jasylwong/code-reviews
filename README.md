@@ -1,4 +1,4 @@
-# Code reviews
+# Code reviews 🔎
 
 This repo contains coding challenges that I have done whilst being assessed by independent professional reviewers from [CoGrammar](https://www.cogrammar.com/). They are designed to emulate the process one might expect in a live tech test for a formal job application.
 
