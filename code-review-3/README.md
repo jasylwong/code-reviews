@@ -1,6 +1,6 @@
 # Code review 3: Spell checker
 
-The reviewer's feedback of my code can be found [here](code-review-3/Ruby/2020-04-17-Orange_Jynx_27-feedback.pdf), 
+The reviewer's feedback of my code can be found [here](Ruby/2020-04-17-Orange_Jynx_27-feedback.pdf), 
 and the live recording can be found [here](https://www.youtube.com/watch?v=Fehc2HlOc6M).
 
 ## Task
