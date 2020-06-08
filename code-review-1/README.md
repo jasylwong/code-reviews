@@ -1,6 +1,6 @@
 # Code review 1: Report card
 
-The reviewer's feedback of my code can be found [here](code-review-1/Ruby/2020-03-05-Orange_Jynx_27-feedback.pdf), 
+The reviewer's feedback of my code can be found [here](Ruby/2020-03-05-Orange_Jynx_27-feedback.pdf), 
 and the live recording can be found [here](https://www.youtube.com/watch?v=vGxOZcuRls4).
 
 ## Task

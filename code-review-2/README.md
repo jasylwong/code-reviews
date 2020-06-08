@@ -1,6 +1,6 @@
 # Code review 2: Sound wave filter
 
-The reviewer's feedback of my code can be found [here](code-review-2/Ruby/2020-03-24-Orange_Jynx_27-feedback.pdf), 
+The reviewer's feedback of my code can be found [here](Ruby/2020-03-24-Orange_Jynx_27-feedback.pdf), 
 and the live recording can be found [here](https://www.youtube.com/watch?v=MWi1OaEnx8A).
 
 ## Task
