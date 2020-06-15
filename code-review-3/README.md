@@ -1,7 +1,6 @@
 # Code review 3: Spell checker
 
-The reviewer's feedback of my code can be found [here](Ruby/2020-04-17-Orange_Jynx_27-feedback.pdf), 
-and the live recording can be found [here](https://www.youtube.com/watch?v=Fehc2HlOc6M).
+I conducted this coding challenge under the assessment of an independent professional reviewer from [CoGrammar](https://www.cogrammar.com/). The reviewer's feedback of my code can be found [here](Ruby/2020-04-17-Orange_Jynx_27-feedback.pdf), and the live recording can be found [here](https://www.youtube.com/watch?v=Fehc2HlOc6M).
 
 ## Task
 
