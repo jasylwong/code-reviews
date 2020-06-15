@@ -1,6 +1,8 @@
 # Code review 2: Sound wave filter
 
-I conducted this coding challenge under the assessment of an independent professional reviewer from [CoGrammar](https://www.cogrammar.com/). The reviewer's feedback of my code can be found [here](Ruby/2020-03-24-Orange_Jynx_27-feedback.pdf), and the live recording can be found [here](https://www.youtube.com/watch?v=MWi1OaEnx8A).
+I conducted this coding challenge under the assessment of an independent professional reviewer from [CoGrammar](https://www.cogrammar.com/). The reviewer's feedback of my code can be found [here](Ruby/2020-03-24-Orange_Jynx_27-feedback.pdf), and the live recording here:
+
+[![Watch the video](https://img.youtube.com/vi/MWi1OaEnx8A/maxresdefault.jpg)](https://youtu.be/MWi1OaEnx8A)
 
 ## Task
 
