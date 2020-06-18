@@ -6,7 +6,7 @@ I conducted this coding challenge under the assessment of an independent profess
 
 ## Task
 
-A client wants you to implement an app that highlights mispelt words in a sentence by returning the mispelt word(s) with a '~' before and after it. For example, 'Cats and dxgs' should become 'Cats and \~dxgs~'.
+A client wants you to implement an app that highlights mispelt words in a sentence by returning the mispelt word(s) with a '\~' before and after it. For example, 'Cats and dxgs' should become 'Cats and \~dxgs~'.
 
 ## Tech
 
