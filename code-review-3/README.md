@@ -6,7 +6,7 @@ I conducted this coding challenge under the assessment of an independent profess
 
 ## Task
 
-A client wants you to implement an app that highlights mispelt words in a sentence by returning the mispelt word(s) with a '~' before and after it. For example, 'Cats and dxgs' should become 'Cats and ~dxgs~'.
+A client wants you to implement an app that highlights mispelt words in a sentence by returning the mispelt word(s) with a '~' before and after it. For example, 'Cats and dxgs' should become 'Cats and \~dxgs~'.
 
 ## Tech
 
@@ -18,16 +18,16 @@ A client wants you to implement an app that highlights mispelt words in a senten
 
 | Input (string) | Output (string) |
 | --- |--- |
-| "cit" | "~cit~" |
+| "cit" | "\~cit~" |
 |"cat" | "cat" |
-|"mxsic" | "~mxsic~" |
-|"music" | "~music~" |
+|"mxsic" | "\~mxsic~" |
+|"music" | "\~music~" |
 |"the dog" | "the dog" |
-|"the dtg" | "the ~dtg~" |
-|"ths dtg" | "~ths~ ~dtg~" |
-|"hyllo wxrld" | "~hyllo~ ~wxrld~" |
-|"Ntce try gdcd gtess" | "~Ntce~ try ~gdcd~ ~gtess~" |
-|"Nice try gdcd gtess" | "Nice try ~gdcd~ ~gtess~" |
+|"the dtg" | "the \~dtg~" |
+|"ths dtg" | "\~ths~ \~dtg~" |
+|"hyllo wxrld" | "\~hyllo~ \~wxrld~" |
+|"Ntce try gdcd gtess" | "\~Ntce~ try \~gdcd~ \~gtess~" |
+|"Nice try gdcd gtess" | "Nice try \~gdcd~ \~gtess~" |
 
 ## Edge cases and points clarified
 ---------
